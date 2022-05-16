@@ -53,15 +53,14 @@ content:
           description: 没有广告
           url: https://www.ekvod.com/
           - name: 电影先生
-          description: 没有广告
-          url: http://dianying.im/
+            description: 没有广告
+            url: http://dianying.im/
           - name: 白嫖者联盟
-          description: 没有广告
-          url: https://www.baipiaozhe.com/
+            description: 没有广告
+            url: https://www.baipiaozhe.com/
           - name: 奈菲电影
-          description: 没有广告
-          url: https://yanetflix.com/
-
+            description: 没有广告
+            url: https://yanetflix.com/
     - name: Fly
       sites:
         - name: 我们所向往的
