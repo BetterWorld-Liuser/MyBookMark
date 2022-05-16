@@ -14,7 +14,7 @@ url: https://%ACTOR%.github.io/%NAME%/
 github: "https://github.com/%ACTOR%"
 
 # footer message
-footer: © 2021-2021 @%ACTOR%
+footer: © 2021-2022 @%ACTOR%
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
